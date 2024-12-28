@@ -16,13 +16,13 @@ A simple and intuitive mobile application for converting currency from USD (Unit
 ## Screenshots
 
 ### Home Screen
-![Home Screen](C:\Users\cheta\Downloads\home_screen.jpg)
+![Home Screen](application%20interface/home_screen.jpg)
 
 ### Conversion Screen
-![Conversion Screen](C:\Users\cheta\Downloads\result.jpg)
+![Conversion Screen](application%20interface/result.jpg)
 
 ### conversion screen
-![conversion screen]("C:\Users\cheta\Downloads\result2.jpg")
+![conversion screen](application%20interface/result2.jpg)
 
 
 ## Tech Stack
